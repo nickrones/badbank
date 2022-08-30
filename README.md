@@ -2,8 +2,8 @@
 
 Project Title: Bad Bank;
 Description/Motivation: Welcome to Bad Bank, an MIT class project;
-Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).;
+Installation Guidelines: $git clone https://github.com/nickrones/badbank
 Screenshots: Screenshots or a GIF of your project in action.;
-Technology used: Express, Mongo DB, Docker;
+Technology used: React, Express, Node, Mongo DB, Firebase, Stuio 3T, Docker;
 Features: Create account, check balance, withdraw, deposit;
 License: MIT;
